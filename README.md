@@ -8,7 +8,10 @@ This is my C program assignment when I was in the first year of Computer Science
 - Class M2
 - Generation 17th
 - Sumit to Teacher HENG SAM AN
-===============================                            
+
+===============================
+
 - Username : computer shop
 - Password : 123456
+
 ===============================
